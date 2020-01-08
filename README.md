@@ -16,3 +16,4 @@ Video demonstrating the example https://www.youtube.com/watch?v=WOsXayVmnoc
 <a href="http://justlaravel.com/paypal-payment-gateway-integration-laravel/">http://justlaravel.com/paypal-payment-gateway-integration-laravel/
 </a>
 # paypal-package
+# paypal-sample-package
